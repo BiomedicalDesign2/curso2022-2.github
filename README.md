@@ -1,9 +1,11 @@
 # curso2022-2
 
-## Tarea para esta semana (1ago2022-5ago2022).
+## Tarea para esta semana (8ago2022-12ago2022).
 
-## Identificación de las necesidades
-Con su grupo desarrollen el proceso de identificación de necesidades en torno al tema **Turismo Accsible** y suban a su repositorio el archivo "Identificacion-de-Necesidades.md" con los resultados de su investigación y discusión.
-![Turismo Accesible](./images/TurismoAccesible.jpeg)
+## Identificación Oportunidades
+![oportunidades](https://tommcclellanddotorg.files.wordpress.com/2019/10/opportunity.jpg)
 
-Pueden usar como guía el libro "BIODESIGN The Process of Innovating Medical Technologies" al cual pueden acceder desde [aquí](./Documentos/Biodesign-The-Process-of-Innovating-Medical-Technologies.pdf)
+Revisen el capítulo3 de Ulrich y esarrollen el proceso de identificación de oportunidades conforme a los comentarios que hicimos al trabajo de cada grupo. 
+
+Suban a su repositorio el archivo "Identificacion-de-Oportunidades.md" con los resultados de su trabajo.
+
