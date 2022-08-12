@@ -1,4 +1,5 @@
-# Guía de trabajo para las siguientes semanas (del 12ago2022 hasta 2sep2022)
+# Guía de trabajo para las siguientes semanas 
+## (del 12ago2022 hasta 2sep2022)
 1. Defina una población objetivo con la cual desea trabajar
 2. Desarrolle un método de indagación social con dicha población
 3. Con los resultados de la indagación inicie un proceso de diseño conceptual que involucre
