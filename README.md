@@ -13,3 +13,5 @@
 	- Definición del layout 
 	- Prototipo computacional
 4. Presentación del diseño conceptual
+
+![](https://i.pinimg.com/originals/58/bd/d0/58bdd09b97704884180c8e417f8c79e9.png)
