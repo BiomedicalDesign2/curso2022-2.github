@@ -10,3 +10,5 @@ Con los resultados de la indagación desarrolle el proceso de diseño conceptual
 - Prototipo computacional
 
 Documente ese proceso en un archivo "Diseño-Conceptual.md" y súbalo a su repositorio
+
+Elabore un pitch (15 minutos) para ser presentado al empresario el viernes 2 de septiembre a las 2:00pm
