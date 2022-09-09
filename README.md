@@ -1,14 +1,11 @@
-# curso2022-2
+# Semana del 12 al 16 de septiembre de 2022
 
-## Tarea para esta semana (29ago2022-2sep2022).
-Con los resultados de la indagación desarrolle el proceso de diseño conceptual que involucre
+# Plan de Trabajo
 
-- Estado del arte de la problemática que desea solucionar
-- Identificación de requerimientos de producto
-- generación, selección y prueba de conceptos
-- Definición del layout
-- Prototipo computacional
+Discuta con su equipo el plan de trabajo para el desarrollo de su proyecto hasta la semana 16 y elabore un cronograma de trabajo en donde tenga en cuenta:
+- Diseño de Detalle
+- Prototipado
+- Pruebas y refinamiento
+- Fabricación y escalado
+- Costos
 
-Documente ese proceso en un archivo "Diseño-Conceptual.md" y súbalo a su repositorio
-
-Elabore un pitch (15 minutos) para ser presentado al empresario el viernes 2 de septiembre a las 2:00pm
