@@ -9,3 +9,5 @@ Discuta con su equipo el plan de trabajo para el desarrollo de su proyecto hasta
 - Fabricación y escalado
 - Costos
 
+Suba el archivo "Cronograma.md" el cual discutiremos en la clase del 16 de septimebre
+
